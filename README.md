@@ -1,3 +1,3 @@
 # helthcare_adf
 
-**This repor is for helthcare_adf project**
+**This repo is for helthcare_adf project**
